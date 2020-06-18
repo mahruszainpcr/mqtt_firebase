@@ -1,1 +1,1 @@
-echo "# mqtt_firebase sederhana subscribe dan publish dengan python"
+# mqtt_firebase sederhana subscribe dan publish dengan python
